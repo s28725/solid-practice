@@ -1,0 +1,12 @@
+C:\Users\s28725\Downloads\task_with_initial_tests\zadanie_solution\LegacyApp\obj\Debug\net7.0\LegacyApp.csproj.AssemblyReference.cache
+C:\Users\s28725\Downloads\task_with_initial_tests\zadanie_solution\LegacyApp\obj\Debug\net7.0\LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s28725\Downloads\task_with_initial_tests\zadanie_solution\LegacyApp\obj\Debug\net7.0\LegacyApp.AssemblyInfoInputs.cache
+C:\Users\s28725\Downloads\task_with_initial_tests\zadanie_solution\LegacyApp\obj\Debug\net7.0\LegacyApp.AssemblyInfo.cs
+C:\Users\s28725\Downloads\task_with_initial_tests\zadanie_solution\LegacyApp\obj\Debug\net7.0\LegacyApp.csproj.CoreCompileInputs.cache
+C:\Users\s28725\Downloads\task_with_initial_tests\zadanie_solution\LegacyApp\bin\Debug\net7.0\LegacyApp.deps.json
+C:\Users\s28725\Downloads\task_with_initial_tests\zadanie_solution\LegacyApp\bin\Debug\net7.0\LegacyApp.dll
+C:\Users\s28725\Downloads\task_with_initial_tests\zadanie_solution\LegacyApp\bin\Debug\net7.0\LegacyApp.pdb
+C:\Users\s28725\Downloads\task_with_initial_tests\zadanie_solution\LegacyApp\obj\Debug\net7.0\LegacyApp.dll
+C:\Users\s28725\Downloads\task_with_initial_tests\zadanie_solution\LegacyApp\obj\Debug\net7.0\refint\LegacyApp.dll
+C:\Users\s28725\Downloads\task_with_initial_tests\zadanie_solution\LegacyApp\obj\Debug\net7.0\LegacyApp.pdb
+C:\Users\s28725\Downloads\task_with_initial_tests\zadanie_solution\LegacyApp\obj\Debug\net7.0\ref\LegacyApp.dll
